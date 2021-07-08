@@ -1,4 +1,4 @@
-![IMG_0280](img\rizonvaloper1x7uanyn8hq8lghmtfmk7whemd5ukmqluccxmpz.png)
+![IMG_0280](https://github.com/AlexMescherSoccer/My-Validator-Projects/blob/master/img/rizonvaloper1x7uanyn8hq8lghmtfmk7whemd5ukmqluccxmpz.png)
 
 Main-nets: <br />
 - Will be able soon
