@@ -7,4 +7,7 @@ Test-nets: <br />
 - [Rizon 1](https://testnet.mintscan.io/rizon/validators/rizonvaloper1x7uanyn8hq8lghmtfmk7whemd5ukmqluccxmpz)
 - [Rizon 2](https://testnet.mintscan.io/rizon/validators/rizonvaloper1eqfmwxwm2y5l4jqv8rv30d0xa4738vanrqcalq)
 
+My-Ambassador-programs: <br />
+- [Moonbeam](https://moonbeam.network/community/ambassadors/)
+
 More info soon... <br />
