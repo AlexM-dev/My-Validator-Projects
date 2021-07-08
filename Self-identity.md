@@ -4,6 +4,7 @@ Main-nets: <br />
 - Will be able soon
 
 Test-nets: <br />
-- [Rizon](https://testnet.mintscan.io/rizon/validators/rizonvaloper1x7uanyn8hq8lghmtfmk7whemd5ukmqluccxmpz)
+- [Rizon 1](https://testnet.mintscan.io/rizon/validators/rizonvaloper1x7uanyn8hq8lghmtfmk7whemd5ukmqluccxmpz)
+- [Rizon 2](https://testnet.mintscan.io/rizon/validators/rizonvaloper1eqfmwxwm2y5l4jqv8rv30d0xa4738vanrqcalq)
 
 More info soon... <br />
